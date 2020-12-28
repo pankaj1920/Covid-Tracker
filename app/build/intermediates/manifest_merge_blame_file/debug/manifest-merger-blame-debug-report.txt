@@ -1,0 +1,76 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bohra.covid19tracker"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.CALL_PHONE" />
+12-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:6:5-69
+12-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:6:22-66
+13
+14    <application
+14-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:8:5-28:19
+15        android:allowBackup="true"
+15-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.1] /home/bohra/.gradle/caches/transforms-2/files-2.1/ff37b710ecf84191a2687617c776753e/core-1.3.1/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.Covid19Tracker" >
+23-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:14:9-52
+24        <activity android:name="com.bohra.covid19tracker.SampleActivity" >
+24-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:15:9-21:20
+24-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:15:19-49
+25            <intent-filter>
+25-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:16:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:17:17-69
+26-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:19:17-77
+28-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity android:name="com.bohra.covid19tracker.ui.statistics.StateCovidDetailActivity" />
+31-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:22:9-85
+31-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:22:19-73
+32        <activity android:name="com.bohra.covid19tracker.ui.news.NewsDetailActivity" />
+32-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:23:9-64
+32-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:23:19-61
+33        <activity android:name="com.bohra.covid19tracker.ui.HomePage" >
+33-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:24:9-26:20
+33-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:24:19-46
+34        </activity>
+35        <activity android:name="com.bohra.covid19tracker.ui.MainActivity" />
+35-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:27:9-53
+35-->/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/AndroidManifest.xml:27:19-50
+36
+37        <provider
+37-->[com.squareup.picasso:picasso:2.71828] /home/bohra/.gradle/caches/transforms-2/files-2.1/f100a23868231d0174da19414614426d/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+38            android:name="com.squareup.picasso.PicassoProvider"
+38-->[com.squareup.picasso:picasso:2.71828] /home/bohra/.gradle/caches/transforms-2/files-2.1/f100a23868231d0174da19414614426d/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+39            android:authorities="com.bohra.covid19tracker.com.squareup.picasso"
+39-->[com.squareup.picasso:picasso:2.71828] /home/bohra/.gradle/caches/transforms-2/files-2.1/f100a23868231d0174da19414614426d/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+40            android:exported="false" />
+40-->[com.squareup.picasso:picasso:2.71828] /home/bohra/.gradle/caches/transforms-2/files-2.1/f100a23868231d0174da19414614426d/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+41    </application>
+42
+43</manifest>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Covid Tracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Wash your hands often with soap and water for at least 20 seconds, especially after being in a public place, or after blowing your nose, coughing or sneezing. If soap and water are not readily available, use a hand sanitizer with at least 60% alcohol.Avoid close contact with people who are sick, and practice social distancing by keeping at least 6 feet away from others if you must go out in public.</string>
+</resources>

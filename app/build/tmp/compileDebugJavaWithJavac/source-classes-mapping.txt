@@ -1,0 +1,73 @@
+com/bohra/covid19tracker/data/SearchNews/SearchNewsSources.java
+ com.bohra.covid19tracker.data.SearchNews.SearchNewsSources
+com/bohra/covid19tracker/ui/statistics/StatisticsFragment.java
+ com.bohra.covid19tracker.ui.statistics.StatisticsFragment
+ com.bohra.covid19tracker.ui.statistics.StatisticsFragment$1
+com/bohra/covid19tracker/data/SearchNews/SearchNewsArticle.java
+ com.bohra.covid19tracker.data.SearchNews.SearchNewsArticle
+com/bohra/covid19tracker/data/covid/Tested.java
+ com.bohra.covid19tracker.data.covid.Tested
+com/bohra/covid19tracker/data/NewsBaseClient.java
+ com.bohra.covid19tracker.data.NewsBaseClient
+com/bohra/covid19tracker/ui/news/NewsFragment.java
+ com.bohra.covid19tracker.ui.news.NewsFragment
+ com.bohra.covid19tracker.ui.news.NewsFragment$1
+ com.bohra.covid19tracker.ui.news.NewsFragment$2
+com/bohra/covid19tracker/ui/about/AboutFragment.java
+ com.bohra.covid19tracker.ui.about.AboutFragment
+com/bohra/covid19tracker/ui/home/HomeFragment.java
+ com.bohra.covid19tracker.ui.home.HomeFragment
+ com.bohra.covid19tracker.ui.home.HomeFragment$1
+ com.bohra.covid19tracker.ui.home.HomeFragment$2
+com/bohra/covid19tracker/ui/news/NewsRecyclerAdapter.java
+ com.bohra.covid19tracker.ui.news.NewsRecyclerAdapter
+ com.bohra.covid19tracker.ui.news.NewsRecyclerAdapter$Search_VH
+ com.bohra.covid19tracker.ui.news.NewsRecyclerAdapter$Search_VH$1
+com/bohra/covid19tracker/ui/statistics/StateStatisFragment.java
+ com.bohra.covid19tracker.ui.statistics.StateStatisFragment
+ com.bohra.covid19tracker.ui.statistics.StateStatisFragment$1
+ com.bohra.covid19tracker.ui.statistics.StateStatisFragment$1$1
+com/bohra/covid19tracker/ui/statistics/StatisticsTabAdapter.java
+ com.bohra.covid19tracker.ui.statistics.StatisticsTabAdapter
+com/bohra/covid19tracker/ui/statistics/StateRecyclerAdapter.java
+ com.bohra.covid19tracker.ui.statistics.StateRecyclerAdapter
+ com.bohra.covid19tracker.ui.statistics.StateRecyclerAdapter$1
+ com.bohra.covid19tracker.ui.statistics.StateRecyclerAdapter$OnItemClickListner
+ com.bohra.covid19tracker.ui.statistics.StateRecyclerAdapter$State_VH
+com/bohra/covid19tracker/ui/MainActivity.java
+ com.bohra.covid19tracker.ui.MainActivity
+com/bohra/covid19tracker/data/covid/CovidResponse.java
+ com.bohra.covid19tracker.data.covid.CovidResponse
+com/bohra/covid19tracker/data/SearchNews/SearchNewsResponse.java
+ com.bohra.covid19tracker.data.SearchNews.SearchNewsResponse
+com/bohra/covid19tracker/BuildConfig.java
+ com.bohra.covid19tracker.BuildConfig
+com/bohra/covid19tracker/data/CovidApi.java
+ com.bohra.covid19tracker.data.CovidApi
+com/bohra/covid19tracker/ui/statistics/CountryStatisFragment.java
+ com.bohra.covid19tracker.ui.statistics.CountryStatisFragment
+ com.bohra.covid19tracker.ui.statistics.CountryStatisFragment$1
+com/bohra/covid19tracker/ui/HomePage.java
+ com.bohra.covid19tracker.ui.HomePage
+com/bohra/covid19tracker/data/covid/CasesTimeSeries.java
+ com.bohra.covid19tracker.data.covid.CasesTimeSeries
+com/bohra/covid19tracker/ui/news/NewsDetailActivity.java
+ com.bohra.covid19tracker.ui.news.NewsDetailActivity
+ com.bohra.covid19tracker.ui.news.NewsDetailActivity$1
+com/bohra/covid19tracker/data/CovidBaseClient.java
+ com.bohra.covid19tracker.data.CovidBaseClient
+com/bohra/covid19tracker/ui/statistics/StateCovidDetailActivity.java
+ com.bohra.covid19tracker.ui.statistics.StateCovidDetailActivity
+com/bohra/covid19tracker/data/covid/StateWise.java
+ com.bohra.covid19tracker.data.covid.StateWise
+com/bohra/covid19tracker/uitil/DateAndTimeFormat.java
+ com.bohra.covid19tracker.uitil.DateAndTimeFormat
+com/bohra/covid19tracker/increase_num/SampleRecyclerViewAdapter.java
+ com.bohra.covid19tracker.increase_num.SampleRecyclerViewAdapter
+ com.bohra.covid19tracker.increase_num.SampleRecyclerViewAdapter$1
+ com.bohra.covid19tracker.increase_num.SampleRecyclerViewAdapter$2
+ com.bohra.covid19tracker.increase_num.SampleRecyclerViewAdapter$OnItemClickListner
+ com.bohra.covid19tracker.increase_num.SampleRecyclerViewAdapter$State_VH
+com/bohra/covid19tracker/SampleActivity.java
+ com.bohra.covid19tracker.SampleActivity
+ com.bohra.covid19tracker.SampleActivity$1

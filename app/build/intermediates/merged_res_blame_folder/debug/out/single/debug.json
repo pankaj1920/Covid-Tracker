@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_home.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_testbanner.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_testbanner.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_stat_button.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/stat_button.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_send_sms_button.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/send_sms_button.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_homebg.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_homebg.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_fragment_news.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/fragment_news.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_selected_text_color.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/selected_text_color.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_call_button.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/call_button.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_bell.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_bell.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_messageicon.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/messageicon.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_activity_state_covid_detail.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/activity_state_covid_detail.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_custom_tab.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/custom_tab.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_share.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_share.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_custom_bottom_nav.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/custom_bottom_nav.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_prevention3.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_prevention3.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_activity_home_page.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_forward_arrow.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_forward_arrow.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_arrow_forward_black_24dp.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_arrow_forward_black_24dp.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_phone.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_state_list_items.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/state_list_items.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_back.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/back.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_news_item.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/news_item.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_testbanner.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_testbanner.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_fragment_statistics.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/fragment_statistics.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_testbanner.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_testbanner.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-v24_uk.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable-v24/uk.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_plastoreicon.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/plastoreicon.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_menu.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_prevention2.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_prevention2.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_increase_num_items.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/increase_num_items.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_custom_tab_selector.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/custom_tab_selector.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-v24_malesiya.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable-v24/malesiya.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_activity_news_detail.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/activity_news_detail.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/font_graphiksemibold.otf.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/font/graphiksemibold.otf"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_message_circle.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_message_circle.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/font_graphikmedium.otf.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/font/graphikmedium.otf"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_a.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/a.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_testbanner.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_testbanner.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_news_item_list.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/news_item_list.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/font_georgiai.ttf.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/font/georgiai.ttf"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_activity_sample.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/activity_sample.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_article2.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_article2.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_article.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_article.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/menu_home_bottom_nav.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/menu/home_bottom_nav.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/navigation_nav_home.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/navigation/nav_home.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_testbanner.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_testbanner.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_statistic_button.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/statistic_button.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_spinner_bg.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/spinner_bg.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_testbanner.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_testbanner.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_prevention1.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_prevention1.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_circle_border.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/circle_border.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/font_athelas_regular.ttf.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/font/athelas_regular.ttf"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_calendar.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/calendar.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-v24_maxico.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable-v24/maxico.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_fragment_state_statis.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/fragment_state_statis.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/font_remachine.ttf.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/font/remachine.ttf"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_covidlogo.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/covidlogo.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_custom_tab_selected.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/custom_tab_selected.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-v24_afganistan.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable-v24/afganistan.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/font_graphikregular.otf.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/font/graphikregular.otf"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_map_bg.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/map_bg.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-v24_map.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable-v24/map.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_testbanner.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_testbanner.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_chart.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_chart.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_fragment_about.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable-v24_india.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable-v24/india.png"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/layout_fragment_country_statis.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/fragment_country_statis.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_info.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_info.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/drawable_ic_news.xml.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_news.xml"
+    },
+    {
+        "merged": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/bohra/AndroidStudioProjects/Covid19Tracker/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    }
+]
